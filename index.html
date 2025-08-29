@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clima Bonitinho 🌤️</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Google Fonts para deixar o visual mais bonito -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>Previsão do Clima</h1>
+    
+    <!-- Campo de busca -->
+    <div class="search-box">
+      <input type="text" id="city-input" placeholder="Digite a cidade...">
+      <button id="search-btn">🔍</button>
+    </div>
+    
+    <!-- Resultado do clima -->
+    <div class="weather-info" id="weather-info">
+      <h2 id="city-name"></h2>
+      <p id="temperature"></p>
+      <p id="description"></p>
+      <img id="weather-icon" src="" alt="" />
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
