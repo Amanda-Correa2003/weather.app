@@ -1,1 +1,72 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
 
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  color: #fff;
+}
+
+.container {
+  background: rgba(255,255,255,0.1);
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  width: 350px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.search-box {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 10px 0 0 10px;
+  outline: none;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #ffb347;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #ffcc70;
+}
+
+.weather-info {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.weather-info img {
+  width: 100px;
+  height: 100px;
+}
+
+#temperature {
+  font-size: 2rem;
+  font-weight: bold;
+}
