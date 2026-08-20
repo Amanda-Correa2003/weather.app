@@ -30,4 +30,20 @@ Como Executar o Projeto
 
 Status do Projeto
 
+
 Finalizado e funcional para uso em portfólio.
+
+imagens (desktop e mobile)
+
+<img width="2560" height="1600" alt="127 0 0 1_5500_index html(Nest Hub Max)" src="https://github.com/user-attachments/assets/acdae27e-f551-4f08-a3e2-2065dfda7856" />
+
+<img width="750" height="3044" alt="127 0 0 1_5500_index html(iPhone SE) (2)" src="https://github.com/user-attachments/assets/5640d340-06bf-4fe8-b62f-ac696f6199e5" />
+
+
+
+
+
+
+
+
+
