@@ -4,7 +4,7 @@ Aplicação web desenvolvida em JavaScript puro para consultar a previsão do te
 
 O projeto foi construído com foco em ter uma interface moderna, responsiva e agradável, servindo como uma ótima adição para o portfólio.
 
-https://weather-app-two-delta-dlmdehd1rk.vercel.app/
+demo: https://weather-app-two-delta-dlmdehd1rk.vercel.app/
 
 Tecnologias Utilizadas
 
