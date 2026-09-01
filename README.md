@@ -41,7 +41,7 @@ imagens (desktop e mobile)
 
 <img width="750" height="3044" alt="127 0 0 1_5500_index html(iPhone SE) (2)" src="https://github.com/user-attachments/assets/5640d340-06bf-4fe8-b62f-ac696f6199e5" />
 
-
+.
 
 
 
