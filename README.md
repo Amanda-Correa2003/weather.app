@@ -6,7 +6,7 @@ O projeto foi construído com foco em ter uma interface moderna, responsiva e ag
 
 demo: https://weather-app-two-delta-dlmdehd1rk.vercel.app/
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 * HTML5 (com marcação semântica)
 * CSS3 (Flexbox, Grid, Variáveis e responsividade com Media Queries)
